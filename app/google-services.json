@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "816732945480",
+    "project_id": "wbattery-61062",
+    "storage_bucket": "wbattery-61062.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:816732945480:android:7300cae48346404a6b2c7d",
+        "android_client_info": {
+          "package_name": "com.gi.wbattery"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyD2ZdU4tXYpW3BboQamwxVrTx0KwyZ1XOE"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

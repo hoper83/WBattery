@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">WBattery</string>
+    <string name="stato_in_carica">In Carica</string>
+    <string name="stato_in_scarica">In Scarica</string>
+    <string name="health_good">Buono</string>
+    <string name="health_overheat">Troppo Calda</string>
+    <string name="health_cold">Troppo Fredda</string>
+    <string name="over_voltage">Sovratensione</string>
+    <string name="dead">Non Funzionante</string>
+    <string name="unknow">Sconosciuto</string>
+    <string name="unspecified_failure">Non recuperabile</string>
+    <string name="USB_charging">Ricarica USB</string>
+    <string name="AC_charging">Ricarica AC</string>
+    <string name="wireless_charging">Ricarica Wireless</string>
+    <string name="battery_charging">Batteria</string>
+    <string name="unkonw_charging">Ricarica Sconosciuta</string>
+    <string name="stringa_stato">Stato:</string>
+    <string name="stringa_livello">Livello:</string>
+    <string name="stringa_salute">Salute:</string>
+    <string name="stringa_tipo_carica">Tipo Carica:</string>
+    <string name="stringa_temperatura">Temperatura:</string>
+    <string name="stringa_modello">Modello:</string>
+    <string name="stringa_versione">Versione:</string>
+</resources>
